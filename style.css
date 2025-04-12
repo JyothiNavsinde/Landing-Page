@@ -133,3 +133,37 @@ button {
     font-weight: 700;
     font-style: normal;
 }
+
+.content4 {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal  {
+    height: 150px;
+    width: 700px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
